@@ -1,23 +1,23 @@
 ***_Public APIs With No Authentication Required_***
 
-><sub>A Free and Open Public API Is One That Anyone May Use and Access Without Any Restrictions Or Requirements. You Do Not Need to Register, Or Get An API Key To Use These APIs.You Just Need To Know the URL Of the API Endpoint And The Parameters That Must Be Sent in Your Request. APIs That Are Free and Available to the Public Are Ideal for Beginners Who Wish to Understand How APIs Work and Practise Their Skills.</sub>
+><sub>***A Free and Open Public API Is One That Anyone May Use and Access Without Any Restrictions Or Requirements. You Do Not Need to Register, Or Get An API Key To Use These APIs.You Just Need To Know the URL Of the API Endpoint And The Parameters That Must Be Sent in Your Request. APIs That Are Free and Available to the Public Are Ideal for Beginners Who Wish to Understand How APIs Work and Practise Their Skills***</sub>
 --------
 
 #### Depending on Your Needs There Are Many Methods For Using Free and Open Public APIs. Here Are Some Popular Methods ####
 
-```bash
+```js
 Web Browser: Simply Input or Paste the URL of the API Endpoint Into Your Web Browser's Address Bar
 and Press Enter. The API Response Will Be In Json Format.
 ```
-```bash
+```js
 Curl: You Can Use Curl, a Command-Line Utility For Transmitting Data Using Several Protocols
 To Submit an API Request and Receive an API Answer.
 ```
-```bash
+```js
 No-Code API Clients: These Are Graphical User Interface (GUI) Methods That Allow You to Connect With APIs
 Without Having to Write Any Code. Ex: Postman.
 ```
-```bash
+```js
 Google Sheets: You May Use Google Sheets, a Cloud-Based Spreadsheet Programme That Allows Custom
 Javascript Functions Created With Google Apps Script.
 ```
